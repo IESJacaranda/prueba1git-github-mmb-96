@@ -4,7 +4,7 @@ Feim Faik, Oktay
 Filip, Robert
 García Mateos, Gonzalo
 López Martínez, Enrique
-Melero Benítez, Manuel
+~~Melero Benítez, Manuel~~
 Mozo Moreno, Herminia
 Naranjo Abril, Raúl
 Pérez Labrada, Pedro José
